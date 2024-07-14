@@ -25,4 +25,4 @@ Here, 𝜇 is the predicted output, 𝛽0 is the intercept, and 𝛽1 is the slo
 
 By following these steps, we can build a simple prediction model using linear regression, analyze the trends in the output, and express the uncertainty in the model's predictions and individual measurements. This project serves as a foundation for understanding more complex prediction models and uncertainty quantification techniques. 
 
-See the accompanied notebook.
+See the [linear prediction model](https://github.com/RaphRivers/Prediction-Model-with-Trend-Analysis-and-Uncertainty-Estimation/blob/d97ca20a8aef371878c67940158b292cf23ed212/Linear%20Prediction%20Model.ipynb).
